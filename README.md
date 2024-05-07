@@ -22,11 +22,3 @@ Das Portfolio ist in verschiedene Sektionen gegliedert, die jeweils über ein re
 ### Navigation
 
 Die Navigation verwendet `react-scroll` für das sanfte Scrollen zwischen den Sektionen auf der Seite und schaltet um zwischen einer Standardansicht und einem Hamburger-Menü auf mobilen Geräten.
-
-## Installation
-
-```bash
-git clone https://github.com/deinUsername/portfolio.git
-cd portfolio
-npm install
-npm run dev
